@@ -33,4 +33,6 @@ print(c)
 
 #4) Make a logical expression with one of the common SYNTAX errors.
 
-
+eight = 12
+nine = 11
+d = eght and nine
